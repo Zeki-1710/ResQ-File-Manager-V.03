@@ -31,3 +31,13 @@
 * **Procesamiento de Imágenes / Íconos:** Pillow (PIL)
 * **Empaquetado:** PyInstaller
 
+---
+
+## ⚖️ Licencia
+
+Este proyecto está bajo la Licencia **GNU General Public License v3.0** (GNU GPLv3).
+
+* **Libertad de uso:** Eres libre de usar, estudiar, compartir y modificar este software.
+* **Copyleft:** Cualquier obra derivada o modificación distribuida debe publicarse bajo esta misma licencia y con su código fuente disponible.
+
+Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
